@@ -1,0 +1,11 @@
+import trolls
+print ("Bienvenido a Fria")
+print("(porque es un downgrade de Tibia)")
+NPC = trolls.Troll()
+print (NPC)
+print("###############################")
+#NPC2 = trolls.TrollMedio(hit_points = 4, mana = 4)
+#print(NPC2)
+#print("###############################")
+#NPC3 = trolls.TrollGrande(hit_points = 4, mana = 4)
+#print(NPC3)
